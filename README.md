@@ -1,4 +1,4 @@
-This is a simple course management system made using jpanel ,
+This is a simple course management system made using swing gui ,
 
 login/logout/sign up 
 
